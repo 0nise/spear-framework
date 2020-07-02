@@ -69,3 +69,7 @@
 | Websense邮件安全网关                  | administrator/admin                                          |
 | 梭子鱼邮件存储网关                    | admin/admin                                                  |
 
+## 参考来源
+
+- [常见网络安全设备默认口令](https://www.cnblogs.com/R3col/p/12452571.html)
+- [【安全设备】常见网络安全设备默认口令](https://www.it2021.com/security/614.html)
