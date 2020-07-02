@@ -4,4 +4,5 @@
 	* [CVE-2020-1957](shiro/cve-2020-1957.md)
 * [Weblogic]()
 * [fastjson](fastjson/)
-
+  * [fastjson漏洞利用](fastjson/fastjson.md)
+  * [fastjson文章文章](fastjson/paper.md)
