@@ -1,4 +1,4 @@
 # Spear-framework
 
-> Best best vulnerability library platform
+> Best vulnerability library platform
 
