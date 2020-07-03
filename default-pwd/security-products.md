@@ -2,72 +2,99 @@
 
 网络安全产品默认口令
 
-| 产品                                  | 口令                                                         |
-| ------------------------------------- | ------------------------------------------------------------ |
-| 深信服产品                            | sangfor/sangfor<br/>sangfor/sangfor@2018<br/>sangfor/sangfor@2019 |
-| 深信服科技 AD                         | /dlanrecover                                                 |
-| 深信服负载均衡 AD 3.6                 | admin/admin                                                  |
-| 深信服 WAC ( WNS V2.6)                | admin/admin                                                  |
-| 深信服 VPN                            | Admin/Admin                                                  |
-| 深信服 ipsec-VPN (SSL 5.5)            | Admin/Admin                                                  |
-| 深信服 AC 6.0                         | admin/admin                                                  |
-| SANGFOR防火墙                         | admin/sangfor                                                |
-| 深信服AF(NGAF V2.2)                   | admin/sangfor                                                |
-| 深信服NGAF下一代应用防火墙(NGAF V4.3) | admin/admin                                                  |
-| 深信服 AD 3.9                         | admin/admin                                                  |
-| 深信服上网行为管理设备数据中心        | Admin/空                                                     |
-| SANGFOR_AD_v5.1                       | admin/admin                                                  |
-| 网御漏洞扫描系统                      | leadsec/leadsec                                              |
-| 天阗入侵检测与管理系统 V7.0           | Admin/venus70 <br />Audit/venus70 <br />adm/venus60          |
-| 天阗入侵检测与管理系统 V6.0           | Admin/venus70 <br />Audit/venus70 <br />adm/venus60          |
-| 网御WAF集中控制中心（V3.0R5.0）       | admin/leadsec.waf <br />audit/leadsec.waf<br />adm/leadsec.waf |
-| 联想网御                              | administrator/administrator                                  |
-| 网御事件服务器                        | admin/admin123                                               |
-| 联想网御防火墙 PowerV                 | administrator/administrator                                  |
-| 联想网御入侵检测系统                  | lenovo/default                                               |
-| 网络卫士入侵检测系统                  | admin/talent                                                 |
-| 网御入侵检测系统 V3.2.72.0            | adm/leadsec32                                                |
-| 联想网御入侵检测系统 IDS              | root/111111 <br />admin/admin123                             |
-| 科来网络回溯分析系统                  | csadmin/colasoft                                             |
-| 中控考勤机 web3.0                     | administrator/123456                                         |
-| H3C iMC                               | admin/admin                                                  |
-| H3C SecPath系列                       | admin/admin                                                  |
-| H3C S5120-SI                          | test/123                                                     |
-| H3C 智能管理中心                      | admin/admin                                                  |
-| H3C ER3100                            | admin/adminer3100                                            |
-| H3C ER3200                            | admin/adminer3200                                            |
-| H3C ER3260                            | admin/adminer3260                                            |
-| H3C                                   | admin/adminer <br/>admin/admin <br />admin/h3capadmin <br />h3c/h3c |
-| 360天擎                               | admin/admin                                                  |
-| 网神防火墙                            | firewall/firewall                                            |
-| 天融信防火墙 NGFW4000                 | superman/talent                                              |
-| 黑盾防火墙                            | admin/admin <br />rule/abc123 <br />audit/abc123             |
-| 华为防火墙                            | telnetuser/telnetpwd <br/>ftpuser/ftppwd                     |
-| 方正防火墙                            | admin/admin                                                  |
-| 飞塔防火墙                            | admin/空                                                     |
-| Juniper_SSG__5防火墙                  | netscreen/netscreen                                          |
-| 中新金盾硬件防火墙                    | admin/123                                                    |
-| kill 防火墙(冠群金辰)                 | admin/sys123                                                 |
-| 天清汉马 USG 防火墙                   | admin/venus.fw <br />Audit/venus.audit <br />useradmin/venus.user |
-| 阿姆瑞特防火墙                        | admin/manager                                                |
-| 山石网科                              | hillstone/hillstone                                          |
-| 绿盟安全审计系统                      | weboper/weboper <br />webaudit/webaudit <br />conadmin/conadmin <br />admin/admin <br />shell/shell |
-| TopAudit 日志审计系统                 | superman/talent                                              |
-| LogBase 日志管理综合审计系统          | admin/safetybase                                             |
-| 网神 SecFox 运维安全管理与审计系统    | admin/!1fw@2soc#3vpn                                         |
-| 天融信数据库审计系统                  | superman/telent                                              |
-| Hillstone 安全审计平台                | hillstone/hillstone                                          |
-| 网康日志中心                          | ns25000/ns25000                                              |
-| 网络安全审计系统（中科新业）          | admin/123456                                                 |
-| 天玥网络安全审计系统                  | Admin/cyberaudit                                             |
-| 明御WEB应用防火墙                     | admin/admin <br />admin/adminadmin                           |
-| 明御攻防实验室平台                    | root/123456                                                  |
-| 明御安全网关                          | admin/adminadmin                                             |
-| 明御运维审计与册风险控制系统          | admin/1q2w3e <br />system/1q2w3e4r <br />auditor/1q2w3e4r <br />operator/1q2w3e4r |
-| 明御网站卫士                          | sysmanager/sysmanager888                                     |
-| 亿邮邮件网关                          | eyouuser/eyouuser <br />eyougw/admin@(eyou) <br />admin/+-ccccc <br />admin/cyouadmin |
-| Websense邮件安全网关                  | administrator/admin                                          |
-| 梭子鱼邮件存储网关                    | admin/admin                                                  |
+
+
+Contributors：[@atdpa4sword](https://github.com/atdpa4sw0rd)
+
+
+
+| 厂商                | 产品                                    | 口令                                                         | FOFA Pro 查询语法                          | 备注                                                         |
+| ------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
+| 深信服              | 深信服产品                              | sangfor/sangfor<br/>sangfor/sangfor@2018<br/>sangfor/sangfor@2019 <br />admin/admin |                                            |                                                              |
+| 深信服              | 深信服科技 AD                           | /dlanrecover                                                 |                                            |                                                              |
+| 深信服              | 深信服负载均衡 AD 3.6                   | admin/admin                                                  |                                            |                                                              |
+| 深信服              | 深信服 AD3.9                            | admin/admin                                                  |                                            |                                                              |
+| 深信服              | 深信服 WAC ( WNS V2.6)                  | admin/admin                                                  |                                            |                                                              |
+| 深信服              | 深信服 VPN                              | Admin/Admin                                                  |                                            |                                                              |
+| 深信服              | 深信服 ipsec-VPN (SSL 5.5)              | Admin/Admin                                                  |                                            |                                                              |
+| 深信服              | 深信服 AC 6.0                           | admin/admin                                                  |                                            |                                                              |
+| 深信服              | SANGFOR 防火墙                          | admin/sangfor                                                |                                            |                                                              |
+| 深信服              | 深信服 AF（NGAF V2.2）                  | admin/sangfor                                                |                                            |                                                              |
+| 深信服              | 深信服 NGA F下一代应用防火墙(NGAF V4.3) | admin/admin                                                  |                                            |                                                              |
+| 深信服              | 深信服上网行为管理设备数据中心          | Admin/空                                                     |                                            |                                                              |
+| 深信服              | SANGFOR_AD_v5.1                         | admin/admin                                                  |                                            |                                                              |
+| 启明星辰            | 启明星辰                                | admin/admin@123 <br />admin/bane@7766                        |                                            |                                                              |
+| 启明星辰            | 天阗入侵检测与管理系统 V7.0             | Admin/venus70 <br />Audit/venus70 <br />adm/venus60          |                                            |                                                              |
+| 启明星辰            | 天阗入侵检测与管理系统 V6.0             | Admin/venus70 <br />Audit/venus70 <br />adm/venus60          |                                            |                                                              |
+| 启明星辰            | 天玥网络安全审计系统                    | Admin/cyberaudit                                             |                                            |                                                              |
+| 启明星辰            | 天清汉马 USG 防火墙                     | admin/venus.fw <br />Audit/venus.audit <br />useradmin/venus.user |                                            |                                                              |
+| 启明星辰            | 启明泰合信息安全运营中心                | sysadmin/venus.sysadmin <br />useradmin/venus.useradmin <br />auditor/venus |                                            | [泰合信息安全运营中心系统-用户手册](https://wenku.baidu.com/view/2d5e90581a37f111f0855b16.html) |
+| 网御星云            | 网御 WAF 集中控制中心（V3.0R5.0）       | admin/leadsec.waf <br />audit/leadsec.waf<br />adm/leadsec.waf |                                            |                                                              |
+| 网御星云            | 网御漏洞扫描系统                        | leadsec/leadsec                                              |                                            |                                                              |
+| 网御星云            | 网御入侵检测系统 V3.2.72.0              | adm/leadsec32 <br />admin/leadsec32                          |                                            |                                                              |
+| 联想网御            | 联想网御                                | administrator/administrator <br />admin/leadsec@7766 <br />admin/administrator <br />admin/bane@7766 |                                            | [联想网御最终配置手册](https://wenku.baidu.com/view/648f0e746aec0975f46527d3240c844768eaa0fe.html) |
+| 联想网御            | 网御事件服务器                          | admin/admin123                                               |                                            |                                                              |
+| 联想网御            | 联想网御防火墙 PowerV                   | administrator/administrator                                  |                                            |                                                              |
+| 联想网御            | 联想网御入侵检测系统                    | lenovo/default                                               |                                            |                                                              |
+| 联想网御            | 联想网御入侵检测系统 IDS                | root/111111 <br />admin/admin123                             |                                            |                                                              |
+| 科来                | 科来网络回溯分析系统                    | csadmin/colasoft                                             |                                            |                                                              |
+| 中控                | 中控考勤机 web3.0                       | administrator/123456                                         |                                            |                                                              |
+| H3C                 | H3C iMC                                 | admin/admin                                                  |                                            |                                                              |
+| H3C                 | H3C SecPath系列                         | admin/admin                                                  |                                            |                                                              |
+| H3C                 | H3C S5120-SI                            | test/123                                                     |                                            |                                                              |
+| H3C                 | H3C 智能管理中心                        | admin/admin                                                  |                                            |                                                              |
+| H3C                 | H3C ER3100                              | admin/adminer3100                                            |                                            |                                                              |
+| H3C                 | H3C ER3200                              | admin/adminer3200                                            |                                            |                                                              |
+| H3C                 | H3C ER3260                              | admin/adminer3260                                            |                                            |                                                              |
+| H3C                 | H3CMSR20                                | admin/admin                                                  |                                            |                                                              |
+| H3C                 | H3C                                     | admin/adminer <br/>admin/admin <br />admin/h3capadmin <br />h3c/h3c |                                            |                                                              |
+| 奇安信              | 360 天擎                                | admin/admin                                                  |                                            |                                                              |
+| 网神                | 网神                                    | admin/firewall <br />firewall/firewall                       |                                            |                                                              |
+| 奇安信/网神         | 网神防火墙                              | firewall/firewall                                            |                                            |                                                              |
+| 奇安信/网神         | 网神 SecFox 运维安全管理与审计系统      | admin/!1fw@2soc#3vpn                                         |                                            |                                                              |
+| 天融信              | 网络卫士入侵检测系统                    | admin/talent                                                 |                                            |                                                              |
+| 天融信              | 天融信防火墙                            | superman/talent <br />superman/talent!23                     | app="天融信-防火墙"                        |                                                              |
+| 天融信              | 天融信防火墙 NGFW4000                   | superman/talent                                              |                                            |                                                              |
+| 天融信              | 天融信数据库审计系统                    | superman/telent                                              |                                            |                                                              |
+| 天融信              | 天融信 TopAudit 日志审计系统            | superman/talent                                              |                                            |                                                              |
+| 海峡信息            | 黑盾防火墙                              | admin/admin <br />rule/abc123 <br />audit/abc123             |                                            |                                                              |
+| 华为                | 华为防火墙                              | telnetuser/telnetpwd <br/>ftpuser/ftppwd                     |                                            |                                                              |
+| 方正                | 方正防火墙                              | admin/admin                                                  |                                            |                                                              |
+| 飞塔                | 飞塔防火墙                              | admin/空                                                     |                                            |                                                              |
+| 欧非信息（juniper） | Juniper_SSG__5防火墙                    | netscreen/netscreen                                          |                                            |                                                              |
+| 中新金盾            | 中新金盾硬件防火墙                      | admin/123                                                    |                                            |                                                              |
+| 冠群金辰            | kill 防火墙（冠群金辰）                 | admin/sys123                                                 |                                            |                                                              |
+| 阿姆瑞特            | 阿姆瑞特防火墙                          | admin/manager                                                |                                            |                                                              |
+| 山石网科            | 山石网科                                | hillstone/hillstone                                          |                                            |                                                              |
+| 山石网科            | Hillstone 安全审计平台                  | hillstone/hillstone                                          |                                            |                                                              |
+| 绿盟                | 绿盟安全审计系统                        | weboper/weboper <br />webaudit/webaudit <br />conadmin/conadmin <br />admin/admin <br />shell/shell |                                            |                                                              |
+| 思福迪              | LogBase 日志管理综合审计系统            | admin/safetybase                                             |                                            |                                                              |
+| 网康科技            | 网康日志中心                            | ns25000/ns25000                                              |                                            |                                                              |
+| 中科新业            | 网络安全审计系统（中科新业）            | admin/123456                                                 |                                            |                                                              |
+| 安恒信息            | 明御 WEB 应用防火墙                     | admin/admin <br />admin/adminadmin                           |                                            |                                                              |
+| 安恒信息            | 明御攻防实验室平台                      | root/123456                                                  |                                            |                                                              |
+| 安恒信息            | 明御安全网关                            | admin/adminadmin                                             |                                            |                                                              |
+| 安恒信息            | 明御运维审计与册风险控制系统            | admin/1q2w3e <br />system/1q2w3e4r <br />auditor/1q2w3e4r <br />operator/1q2w3e4r |                                            |                                                              |
+| 安恒信息            | 明御网站卫士                            | sysmanager/sysmanager888                                     |                                            |                                                              |
+| 亿中邮信息          | 亿邮邮件网关                            | eyouuser/eyouuser <br />eyougw/admin@(eyou) <br />admin/+-ccccc <br />admin/cyouadmin |                                            |                                                              |
+| Websense            | Websense 邮件安全网关                   | administrator/admin                                          |                                            |                                                              |
+| 梭子鱼              | 梭子鱼邮件存储网关                      | admin/admin                                                  |                                            |                                                              |
+| 华为                | 华为USG防火墙                           | admin/Admin@123 <br />audit-admin/Admin@123<br />api-admin/Admin@123 | app="华为-USG防火墙"                       |                                                              |
+| 思科                | 思科                                    | admin/cisco                                                  |                                            |                                                              |
+| 迅捷                | Fast                                    | admin/admin                                                  |                                            |                                                              |
+| 艾玛701g            | 艾玛701g                                | admin/admin <br />SZIM/SZIM                                  |                                            |                                                              |
+| 艾玛701H            | 艾玛701H                                | admin/epicrouter                                             |                                            |                                                              |
+| 实达                | 实达 2110EHROUTER                       | user/password <br />root/grouter                             |                                            |                                                              |
+| 实达                | 实达 2110EHROUTER v3.20                 | admin/conexant                                               |                                            |                                                              |
+| 实达                | 实达 2110EHROUTER v3.21                 | admin/conexant                                               |                                            |                                                              |
+| 实达                | 实达 2110EHROUTER v3.51                 | admin/conexant                                               |                                            |                                                              |
+| 实达                | 实达 2110EHROUTER v4.5                  | root/grouter                                                 |                                            |                                                              |
+| 科达                | 科达网络键盘控制台                      | admin/kedacom123                                             | title="网络键盘控制台"                     |                                                              |
+| 移动                | 云视讯C21\C11\C31                       | admin/Starnet@0591                                           | body="userName.png"&&body="verifyCode.png" | [云视讯星网C21型终端配置](http://news.wanggangs.cn/portal.php?mod=view&aid=607) |
+| 星网锐捷数字标牌    | 星网锐捷数字标牌                        | root/root1234                                                | body="DMB-"&&body="anonymousUser"          |                                                              |
+|                     |                                         |                                                              |                                            |                                                              |
+|                     |                                         |                                                              |                                            |                                                              |
+|                     |                                         |                                                              |                                            |                                                              |
 
 ## 参考来源
 
