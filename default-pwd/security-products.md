@@ -92,9 +92,6 @@ Contributors：[@atdpa4sword](https://github.com/atdpa4sw0rd)
 | 科达                | 科达网络键盘控制台                      | admin/kedacom123                                             | title="网络键盘控制台"                     |                                                              |
 | 移动                | 云视讯C21\C11\C31                       | admin/Starnet@0591                                           | body="userName.png"&&body="verifyCode.png" | [云视讯星网C21型终端配置](http://news.wanggangs.cn/portal.php?mod=view&aid=607) |
 | 星网锐捷数字标牌    | 星网锐捷数字标牌                        | root/root1234                                                | body="DMB-"&&body="anonymousUser"          |                                                              |
-|                     |                                         |                                                              |                                            |                                                              |
-|                     |                                         |                                                              |                                            |                                                              |
-|                     |                                         |                                                              |                                            |                                                              |
 
 ## 参考来源
 
