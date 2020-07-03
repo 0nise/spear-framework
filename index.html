@@ -16,10 +16,27 @@
         repo: 'https://github.com/0nise/spear-framework',
         loadSidebar: true,
         maxLevel: 3,
-        subMaxLevel: 2
+        subMaxLevel: 2,
+        ga: 'UA-143796169-2'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '86ec1a537931926b6121',
+      clientSecret: 'fab5a7f7649c00fa3a4bd4d732a45a201795b71e',
+      repo: 'spear-framework',
+      owner: '0nise',
+      admin: ['0nise'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
 </body>
 </html>
