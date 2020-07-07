@@ -1,10 +1,10 @@
-# fastjson 安全漏洞
+# fastjson 安全漏洞 {docsify-ignore}
 
-编辑：r4v3zn
+?> 编辑：[@r4v3zn](https://github.com/0nise)
 
-漏洞作者：threedr3am
+?> 漏洞作者：[@threedr3am](https://github.com/threedr3am)
 
-Fastjson 是一个Java 语言编写的高性能功能完善的 JSON 库。 它采用一种“假定有序快速匹配”的算法，把 JSON Parse 的性能提升到极致，是目前 Java 语言中最快的 JSON 库。 Fastjson 接口简单易用，已经被广泛使用在缓存序列化、协议交互、Web 输出、Android 客户端等多种应用场景。
+Fastjson 是一个 Java 语言编写的高性能功能完善的 JSON 库。 它采用一种“假定有序快速匹配”的算法，把 JSON Parse 的性能提升到极致，是目前 Java 语言中最快的 JSON 库。 Fastjson 接口简单易用，已经被广泛使用在缓存序列化、协议交互、Web 输出、Android 客户端等多种应用场景。
 
 
 

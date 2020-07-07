@@ -10,23 +10,39 @@
 </head>
 <body>
   <div id="app">Loading</div>
+  <script src="//unpkg.com/vue/dist/vue.js"></script>
+  <script src="//unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <script src="//unpkg.com/docsify-demo-box-vue/dist/docsify-demo-box-vue.min.js"></script>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+  <script src="//unpkg.com/element-ui/lib/index.js"></script>
+  <script src="//unpkg.com/element-ui/lib/umd/locale/en.js"></script>
+  <script src="//unpkg.com/vue-data-tables@3.4.4/dist/data-tables.min.js"></script>
+  <script src="//unpkg.com/json2csv@3.9.1/dist/json2csv.js"></script>
+  <script src="//unpkg.com/docsify-plugin-codefund/index.js"></script>
   <script>
     window.$docsify = {
         name: 'Spear-framework',
         repo: 'https://github.com/0nise/spear-framework',
         loadSidebar: true,
         maxLevel: 3,
-        subMaxLevel: 2,
-        ga: 'UA-143796169-2'
+        subMaxLevel: 3,
+        ga: 'UA-143796169-2',
+        plugins: [
+          EditOnGithubPlugin.create(
+          'https://github.com/0nise/spear-framework/tree/master/'
+        ),
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: '8ee2227e7637ca384c05',

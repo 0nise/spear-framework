@@ -1,8 +1,8 @@
-## 网络安全产品默认口令
+## 网络安全产品默认口令 {docsify-ignore}
 
-网络安全产品默认口令
+?> 网络安全产品默认口令
 
-维护：[@atdpa4sword](https://github.com/atdpa4sw0rd)、[@r4v3zn](https://github.com/0nise)
+?> 维护：[@atdpa4sword](https://github.com/atdpa4sw0rd)、[@r4v3zn](https://github.com/0nise)
 
 | 厂商                | 产品                                    | 口令                                                         | FOFA Pro 查询语法                          | 备注                                                         |
 | ------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
@@ -84,7 +84,7 @@
 | 梭子鱼              | 梭子鱼邮件存储网关                      | admin/admin                                                  | app="梭子鱼垃圾邮件防火墙"                 |                                                              |
 | 华为                | 华为USG防火墙                           | admin/Admin@123 <br />audit-admin/Admin@123<br />api-admin/Admin@123 | app="华为-USG防火墙"                       |                                                              |
 | 思科                | 思科                                    | admin/cisco                                                  | app="Cisco-公司产品"                                   |                                                              |
-                                            |                                                              |
+|                                                              |
 | 科达                | 科达网络键盘控制台                      | admin/kedacom123                                             | title="网络键盘控制台"                     |                                                              |
 | 移动                | 云视讯C21\C11\C31                       | admin/Starnet@0591                                           | body="userName.png"&&body="verifyCode.png" | [云视讯星网C21型终端配置](http://news.wanggangs.cn/portal.php?mod=view&aid=607) |
 | 星网锐捷数字标牌    | 星网锐捷数字标牌                        | root/root1234                                                | body="DMB-"&&body="anonymousUser"          |                                                              |
