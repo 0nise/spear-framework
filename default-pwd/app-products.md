@@ -15,4 +15,3 @@
 | Jboss  | Jboss    | admin/admin                                        |                                                           |                          |
 | Apache | Axis2    | admin/admin                                        |                                                           |                          |
 | F5     | BIG-IP   | root/default <br />admin/default <br />admin/admin | `title="BIG-IP&reg;- Redirect" || icon_hash="-335242539"` | 首次登录后会强制修改密码 |
-|        |          |                                                    |                                                           |                          |
