@@ -8,10 +8,11 @@
 
 ## 中间价应用
 
-| 厂商   | 产品     | 口令        | FOFA Pro查询语法     | 备注 |
-| ------ | -------- | ----------- | -------------------- | ---- |
-| Apache | Tomcat   | admin/空    | app="Tomcat默认页面" |      |
-| IBM    | WebSpher | admin/admin |                      |      |
-| Jboss  | Jboss    | admin/admin |                      |      |
-| Apache | Axis2    | admin/admin |                      |      |
-
+| 厂商   | 产品     | 口令                                               | FOFA Pro查询语法                                          | 备注                     |
+| ------ | -------- | -------------------------------------------------- | --------------------------------------------------------- | ------------------------ |
+| Apache | Tomcat   | admin/空                                           | `app="Tomcat默认页面"`                                    |                          |
+| IBM    | WebSpher | admin/admin                                        |                                                           |                          |
+| Jboss  | Jboss    | admin/admin                                        |                                                           |                          |
+| Apache | Axis2    | admin/admin                                        |                                                           |                          |
+| F5     | BIG-IP   | root/default <br />admin/default <br />admin/admin | `title="BIG-IP&reg;- Redirect" || icon_hash="-335242539"` | 首次登录后会强制修改密码 |
+|        |          |                                                    |                                                           |                          |
