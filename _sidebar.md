@@ -7,6 +7,8 @@
 
 * Weblogic
 
+* Dubbo
+
 * [fastjson](fastjson/)
   * [fastjson漏洞利用](fastjson/fastjson.md)
   * [fastjson分析文章](fastjson/paper.md)
