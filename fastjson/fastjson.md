@@ -1,4 +1,4 @@
-# Fastjson 漏洞利用
+# Fastjson 漏洞利用 {docsify-ignore}
 
 ## Fastjson 检测
 

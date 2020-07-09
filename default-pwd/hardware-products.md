@@ -1,6 +1,6 @@
-# 硬件产品默认口令
+# 硬件产品默认口令 {docsify-ignore}
 
-维护：[@atdpa4sword](https://github.com/atdpa4sw0rd)、[@r4v3zn](https://github.com/0nise)
+?> 维护：[@atdpa4sword](https://github.com/atdpa4sw0rd)、[@r4v3zn](https://github.com/0nise)
 
 ## 密码机
 
@@ -8,8 +8,9 @@
 | ---------------------------- | --------------------------------- | -------------- | --------------- | ------------------------------------------------------------ |
 | 北京三未信安科技发展有限公司 | 三未信安服务器密码机（SJJ1012-A） | swhsm/swxa1234 |                 | [三未信安服务器密码机-用户技术手册_v2.1](https://wenku.baidu.com/view/b50fac06844769eae009ede2.html) |
 
+## 路由器
 
-## 常用路由器
+### 常用路由器
 
 | 厂商 | 产品 | 协议 | 口令 | FOFAPro查询语法 | 备注 |
 | ---- | ---- | ---- | ---- | --------------- | ---- |
@@ -26,8 +27,7 @@
 |Thomson|Thomson|HTTP|user/user||||
 |US Robotics|US Robotics|HTTP|root/letmein||||
 
-
-## 全部路由器
+### 全部路由器
 
 | 厂商 | 产品 | 协议 | 口令 | FOFAPro查询语法 | 备注 |
 | ---- | ---- | ---- | ---- | --------------- | ---- |
