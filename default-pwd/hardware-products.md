@@ -279,95 +279,158 @@
 |Axis|NETCAM|Telnet|root/pass|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)|||
 |Axis|Printserver|Multi|root/pass|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)|||
 |Axis|Axis|HTTP|setup/setup|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)||
+|Barco|Barco|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=Barco&qbase64=QmFyY28%3D&file=&file=)|[相关文档](https://www.barco.com/tde/(2331390682231610)/R5900004/08/Barco_InstallationManual_R5900004_08__ClickShare-CSC-1-Installation-Guide.pdf)|
+|Barracuda|SSL VPN|Console/HTTP|admin/admin|[多款设备](https://beta.fofa.so/result?q=Barracuda&qbase64=QmFycmFjdWRh)|[相关文档](http://www.barracudanetworks.com/ns/downloads/Quick_Start_Guides/QSG_Barracuda_SSLVPN_US.pdf
+)|
+|Barracuda|SSL VPN|HTTP|ssladmin/ssladmin|[多款设备](https://beta.fofa.so/result?q=Barracuda&qbase64=QmFycmFjdWRh)|[相关文档](http://www.barracudanetworks.com/ns/downloads/Quick_Start_Guides/QSG_Barracuda_SSLVPN_US.pdf
+)|
+|Bay Networks|Router|Telnet|Manager/(none)|[多款产品](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)|
+|Bay Networks|Router|Telnet|User/(none)|[多款产品](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)|
+|Bay Networks|SuperStack II|Telnet|security/security|[多款产品](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)|
+|Bay Networks|Switch|Telnet|(none)/NetICs|[多款产品](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)|
 |B-FOCuS|B-FOCuS 270/400||root/1234||||
-|BEA|Weblogic||system/weblogic||||
-|BEA|Weblogic||system/weblogic||||
-|BEA|WebLogic Process||joe/password||||
-|BEA|WebLogic Process||system/security||||
-|Beck|IPC@Chip|HTTP|anonymous/(none)||||
-|Beck|IPC@Chip|HTTP|tel/(none)||||
+|Best Practical Solutions|Request Tracker||root/password||[相关文档](http://requesttracker.wikia.com/wiki/RecoverRootPassword)||
+|BestPractical|router|HTTP|root/password|||
+|Bewan|Wireless Routers||bewan/bewan||||
+|BEA|Weblogic||system/weblogic|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
+|BEA|Weblogic||system/weblogic|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
+|BEA|WebLogic Process||joe/password|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
+|BEA|WebLogic Process||system/security|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
+|Beck|IPC@Chip|HTTP|anonymous/(none)|[当前型号](https://beta.fofa.so/result?qbase64=YXBwPSJCRUNLLUlQQy1DSElQLVJUTyI%3D)|||
+|Beck|IPC@Chip|HTTP|tel/(none)|[当前型号](https://beta.fofa.so/result?qbase64=YXBwPSJCRUNLLUlQQy1DSElQLVJUTyI%3D)|||
 |Belkin|F5D6130|SNMP|(none)/MiniAP||||
-|Bintec|all Routers||admin/bintec||||
-|Bintec|Bianka Routers|Multi|admin/bintec||||
+|Biscom|Biscom Delivery Server|Multiple|admin/admin|[多款型号](https://beta.fofa.so/result?q=Biscom&qbase64=QmlzY29t)|[相关文档](http://ticsoftware.helpserve.com/Knowledgebase/Article/GetAttachment/48/40)||
+|Billion|BiPAC 7404VGO|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)||
+|Billion|BiGuard|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)||
+|Bintec|all Routers||admin/bintec or funkwerk|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
+|Bintec|Bianka Routers|Multi|admin/bintec|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj|||
 |BioData|all Babylon Boxes||(none)/Babylon||||
-|Biostar|PC BIOS|Console|(none)/Q54arwms||||
+|Biostar|PC BIOS|Console|(none)/Q54arwms|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCRUNLLUlQQy1DSElQLVJUTyI%3D)|||
+|Biostar|PC BIOS|Console|(none)/Biostar|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCRUNLLUlQQy1DSElQLVJUTyI%3D)|||
 |BizDesign|ImageFolio Pro|HTTP|Admin/ImageFolio||||
-|BMC|Patrol|Multi|patrol/patrol||||
-|Borland|Interbase||politcally/correct||||
-|Borland/|Interbase||SYSDBA/masterkey||||
+|Black Duck Software|Hub|HTTP|sysadmin/blackduck|[相关型号](https://beta.fofa.so/result?qbase64=YXBwPSJFbmVyZ2luZSI%3D)||
+|Black Duck Software|Administration Console|HTTP|admin/admin|[相关型号](https://beta.fofa.so/result?qbase64=YXBwPSJFbmVyZ2luZSI%3D)||
+|Black Widow Web|Saxon|HTTP|admin/admin|||
+|Blitzz Technologies|BWA711|HTTP|admin/admin||||
+|BMC|Patrol|Multi|patrol/patrol|[多款型号](https://beta.fofa.so/result?q=BMC&qbase64=Qk1D)|||
+|BMC Software|Servers||Best1_User/BackupU$r|[多款型号](https://beta.fofa.so/result?q=BMC&qbase64=Qk1D)|[相关文档](ftp://ftp.bmc.com/pub/perform/resolutions/15063490.pdf)|
+|Bomgar|Enterprise||admin/password|[多款型号](https://beta.fofa.so/result?q=Bomgar&qbase64=Qm9tZ2Fy)|||
+|Borland|Interbase||politcally/correct|[相关产品](https://beta.fofa.so/result?q=Bomgar&qbase64=Qm9tZ2Fy)|||
+|Borland/|Interbase||SYSDBA/masterkey|[相关产品](https://beta.fofa.so/result?q=Bomgar&qbase64=Qm9tZ2Fy)|||
 |Boston|router simulator|HTTP|admin/admin||||
 |Boston|router simulator|Multi|(none)/admin||||
 |BreezeCOM|–||(none)/Master||||
 |Breezecom|Breezecom Adapters||(none)/laflaf||||
 |Breezecom|Breezecom Adapters||(none)/Master||||
 |BreezeCOM|Station Adapter||(none)/Super||||
-|Brocade|Fiberchannel Switches|Multi|admin/password||||
-|Brother|HL-1270n|Telnet|(none)/access||||
-|Brother|NC-3100h|Telnet|(none)/access||||
-|Brother|NC-4100h|Telnet|(none)/access||||
-|Buffalo/MELCO|AirStation WLA-L11||root (cannot/(none)||||
+|Brocade|Fiberchannel Switches|Multi|admin/password|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brocade|Fabric OS|Multi|root/fibranne|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brocade|Silkworm|Multi|admin/brocade1|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|HL-1270n||(none)/access|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|NC-3100h||(none)/access|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|NC-4100h||(none)/access|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|Oce-fx3000||admin/access|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|OCE Imagistics||(none)/12345678|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|im9220||(none)/00000000|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|||
+|Brother|ql580N||admin/access|[多款型号](https://beta.fofa.so/result?q=Brocade&qbase64=QnJvY2FkZQ%3D%3D)|[相关文件](http://welcome.solutions.brother.com/BSC/public/us/us_ot/en/faq/faqp/000000/001300/000093/faqp001393_000.html?reg=us&c=us_ot&lang=en&prod=lpql580eus&Cat=41)||
+|BT|Voyager 2000||admin/admin|[多款产品](https://beta.fofa.so/result?q=Voyager&qbase64=Vm95YWdlcg%3D%3D)|||
+|BT|Voyager||admin/admin|[多款产品](https://beta.fofa.so/result?q=Voyager&qbase64=Vm95YWdlcg%3D%3D)|||
+|BT|Home Hub||admin/admin|[多款产品](https://beta.fofa.so/result?q=Voyager&qbase64=Vm95YWdlcg%3D%3D)|||
+|Buffalo/MELCO|AirStation WLA-L11||root/(none)|[当前产品](https://beta.fofa.so/result?q=Voyager&qbase64=Vm95YWdlcg%3D%3D)|||
+|Busybox|Busybox||admin/admin|[多款型号](https://beta.fofa.so/result?q=Busybox&qbase64=QnVzeWJveA%3D%3D)||
 |Cabletron|any||(none)/(none)||||
 |Cabletron|Netgear modem/router||netman/(none)||||
 |Cabletron/|WebView for Matrix E1|HTTP|(none)/(none)||||
-|Enterasys|(1G694-13 or 1G582-09||/||||
 |Cayman|3220-H DSL Router||Any/(none)||||
 |Cayman|Cayman DSL||(none)/(none)||||
+|Ceragon Networks|FibeAir|Multiple|root/tooridu|[当前产品](https://beta.fofa.so/result?qbase64=YXBwPSJDZXJhZ29u6Lev55Sx5ZmoIg%3D%3D)|[相关文档](http://www.kb.cert.org/vuls/id/936356)|
 |Celerity|Mediator|Multi|mediator/mediator||||
 |Cellit|CCPro|Multi|cellit/cellit||||
+|CGI World|Poll It|HTTP|(none)/protection||||
 |Checkpoint|SecurePlatform|Console|admin/admin||||
-|Cisco|2503||(none)/(none)||||
-|Cisco|1900|Multi|(none)/(none)||||
-|Cisco|2501|Telnet|(none)/(none)||||
-|Cisco|3600|Telnet|(none)/(none)||||
-|Cisco|aironet|Multi|(none)/(none)||||
-|Cisco|Any Router and Switch||cisco/cisco||||
-|Cisco|BBSD MSDE Client|Telnet or|bbsd-client/NULL||||
-|Cisco|BBSM Administrator|Multi|Administrator/changeme||||
-|Cisco|Cache Engine|Console|admin/diamond||||
-|Cisco|CiscoWorks 2000||admin/cisco||||
-|Cisco|CiscoWorks 2000||guest/(none)||||
-|Cisco|ConfigMaker||cmaker/cmaker||||
-|Cisco|Content Engine|Telnet|admin/default||||
-|Cisco|Hot Standby|HSRP|(none)/cisco||||
-|Cisco|IOS|Multi|cisco/cisco||||
-|Cisco|IOS|Multi|(none)/cc||||
-|Cisco|IOS|Multi|(none)/Cisco router||||
-|Cisco|IOS|Multi|(none)/c||||
-|Cisco|IOS|SNMP|(none)/cable-docsis||||
-|Cisco|IOS|SNMP|private/secret||||
-|Cisco|IOS|Multi|ripeop/(no pw)||||
-|Cisco|MGX||superuser/superuser||||
-|CISCO|N/A||pixadmin/pixadmin||||
-|Cisco|Netranger/secure IDS|Multi|netrangr/attack||||
-|Cisco|Network Registar||ADMIN/changeme||||
-|Cisco|pix|Multi|(none)/(none)||||
-|Cisco|PIX firewall|Multi|(none)/(none)||||
-|Cisco|Router|Multi|(none)/(none)||||
-|Cisco|VPN 3000 Concentrator||admin/admin||||
-|Cisco-Arrowpoint|Arrowpoint||admin/system||||
-|Cobalt|RaQ * Qube*||admin/admin||||
+|Chase Research|Iolan||(blank)/iolan||||
+|Check Point|Interspect-all|ALL|admin/admin|[多款型号](https://beta.fofa.so/result?q=Check+Point&qbase64=Q2hlY2sgUG9pbnQ%3D)||
+|Check Point|SG R70|HTTP|admin/adminadmin|[多款型号](https://beta.fofa.so/result?q=Check+Point&qbase64=Q2hlY2sgUG9pbnQ%3D)||
+|Chuming Chen|NessusWeb|HTTP|administrator/adminpass||||
+|Ciphertrust|Ironmail|HTTP|admin/password|[相关产品](https://beta.fofa.so/result?q=Ciphertrust&qbase64=Q2lwaGVydHJ1c3Q%3D)|||
+|Cisco|2503||(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|1900|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|2501|Telnet|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|3600|Telnet|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|aironet|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Any Router and Switch||cisco/cisco|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|BBSD MSDE Client|Telnet or|bbsd-client/NULL|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|BBSM Administrator|Multi|Administrator/changeme|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Cache Engine|Console|admin/diamond|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|CiscoWorks 2000||admin/cisco|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|CiscoWorks 2000||guest/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|ConfigMaker||cmaker/cmaker|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Content Engine|Telnet|admin/default|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Hot Standby|HSRP|(none)/cisco|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|Multi|cisco/cisco|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|Multi|(none)/cc|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|Multi|(none)/Cisco router|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|Multi|(none)/c|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|SNMP|(none)/cable-docsis|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|SNMP|private/secret|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|IOS|Multi|ripeop/(no pw)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|MGX||superuser/superuser|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|CISCO|N/A||pixadmin/pixadmin|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Netranger/secure IDS|Multi|netrangr/attack|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Network Registar||ADMIN/changeme|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|pix|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|PIX firewall|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|Router|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco|VPN 3000 Concentrator||admin/admin|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Cisco-Arrowpoint|Arrowpoint||admin/system|[多款型号](https://beta.fofa.so/result?q=cisco&qbase64=Y2lzY28%3D)|||
+|Citrix Systems|Access Gateway|HTTP|root/rootadmin|[相关产品](https://beta.fofa.so/result?q=Citrix+Systems&qbase64=Q2l0cml4IFN5c3RlbXM%3D)||
+|Citrix Systems|Access Gateway||nsroot/nsroot|[相关产品](https://beta.fofa.so/result?q=Citrix+Systems&qbase64=Q2l0cml4IFN5c3RlbXM%3D)|[相关文档](http://support.citrix.com/proddocs/topic/access-gateway-hig-appliances/ag-using-setup-wizard-tsk.html)|
+|ClearOne Communications|Converge|HTTP|ClearOne/RAV|[相关产品](https://beta.fofa.so/result?q=Communications&qbase64=Q29tbXVuaWNhdGlvbnM%3D)|[相关文档](http://www.clearone.com/uploads/resource/800_153_560_Rev1_0_Converge560_590Man-0.pdf)|
+|ClearOne Communications|Converge Pro|HTTP|clearone/clearone|[相关产品](https://beta.fofa.so/result?q=Communications&qbase64=Q29tbXVuaWNhdGlvbnM%3D)|[相关文档](http://pdf.textfiles.com/manuals/STARINMANUALS/ClearOne/Manuals/Archive/ConvergePro%208i,%20840T,%20880,%20TH20%20v0.91.pdf)
+)|
+|Claris|Claris||(none)/familymacintosh|||
+|Cobalt|RaQ * Qube*||admin/admin|[相关产品](https://beta.fofa.so/result?q=Cobalt&qbase64=Q29iYWx0)|||
 |Com21|General Equipment(?)||(none)/(none)||||
+|Comcast SMC|8014||cusadmin/highspeed|[相关产品](https://beta.fofa.so/result?q=Comcast&qbase64=Q29tY2FzdA%3D%3D)||
 |Comersus|Shopping Cart|HTTP|admin/dmr99||||
 |Comersus|Shopping Cart|HTTP|admin/dmr99||||
-|Compaq|Armada E500|Multi|Administrator/admin||||
-|Compaq|Armada M700|Console|Administrator/admin||||
-|Compaq|dc770t|Multi|(none)/(none)||||
-|Compaq|Insight Manager|Multi|(none)/(none)||||
-|Compaq|Insight Manager||anonymous/(none)||||
-|Compaq|Insight Manager||PFCUser/240653C9467E45||||
-|Compaq|Insight Manager||user/user||||
-|Compaq|Management Agents||administrator/none||||
-|Compaq|PC BIOS|Console|(none)/Compaq||||
+|Colubris Networks|CN3200/MSC 5100|HTTP|admin/admin|[相关产品](https://beta.fofa.so/result?q=Colubris&qbase64=Q29sdWJyaXM%3D)|||
+|Comodo Group|MyDLP|HTTP|mydlp/mydlp||[相关文档](https://www.mydlp.com/wp-content/uploads/Comodo_MyDLP_Admin_guide.pdf)|
+|Compaq|Familiar Linux|telnet/ssh/console|root/rootme|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)||
+|Compaq|Armada E500|Multi|Administrator/admin|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|Armada M700|Console|Administrator/admin|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|dc770t|Multi|(none)/(none)|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|Insight Manager|Multi|(none)/(none)|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|Insight Manager||anonymous/(none)|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|Insight Manager||PFCUser/240653C9467E45|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|Insight Manager||user/user|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|Management Agents||administrator/none|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
+|Compaq|PC BIOS|Console|(none)/Compaq|[相关产品](https://beta.fofa.so/result?q=Compaq&qbase64=Q29tcGFx)|||
 |Compualynx|Cmail Server|Multi|administrator/asecret||||
+|Compualynx|Cproxy Server|Multi|administrator/asecret||||
 |Compualynx|SCM|Multi|administrator/asecret||||
 |Concord|PC BIOS||(none)/last||||
+|Conceptronic|CADSLR4|HTTP/Telnet|admin/password|[多款型号](https://beta.fofa.so/result?q=Conceptronic&qbase64=Q29uY2VwdHJvbmlj)|||
+|Conceptronic|CADSLR4|FTP|anonymous/password|[多款型号](https://beta.fofa.so/result?q=Conceptronic&qbase64=Q29uY2VwdHJvbmlj)|||
+|Conceptronic|C100BRS4H|HTTP|admin/1234|[多款型号](https://beta.fofa.so/result?q=Conceptronic&qbase64=Q29uY2VwdHJvbmlj)|||
+|Concord|PC BIOS||(none)/last|||
+|Conexant|Router|HTTP|admin/(epicrouter/amigosw1/password/conexant)|||
+|Control4|Home Theater Controller AVMHTC1B|Telnet|(none)/ducati900ss|[多款型号](https://beta.fofa.so/result?q=Control4&qbase64=Q29udHJvbDQ%3D)|[相关文档](http://www.digitalmunition.com/_/Blog/Entries/2010/10/13_Control4_gear_is_umm..._backdoored,_I_guess.html)|
+|Control4|Home Theater Controller AVMHTC1B|Telnet|root/t0talc0ntr0l4!|[多款型号](https://beta.fofa.so/result?q=Control4&qbase64=Q29udHJvbDQ%3D)|[相关文档](http://www.digitalmunition.com/_/Blog/Entries/2010/10/13_Control4_gear_is_umm..._backdoored,_I_guess.html)|
+|CoronaMatrix|phpAddressBook|HTTP|admin/admin||
+|Covertix|SmartCipher|HTTP|Admin/Admin||[相关文档](http://www.kagoon.com/smartcipher-installation-guide-docx/main)|
 |Coyote-Point|Equaliser 4|Serial|eqadmin/equalizer||||
 |Coyote-Point|Equaliser 4|Serial|root/(none)||||
 |Crystalview|OutsideView 32||(none)/Crystal||||
-|Cyberguard|all firewalls|console +|cgadmin/cgadmin||||
+|Cyberguard|all firewalls|console |cgadmin/cgadmin|[相关产品](https://beta.fofa.so/result?q=Cyberguard&qbase64=Q3liZXJndWFyZA%3D%3D)|||
 |CyberMax|PC BIOS|Console|(none)/Congress||||
-|Cyclades|Cyclades-TS800|telnet/ssh/|root/(none)||||
-|Cyclades|MP/RT||super/surt||||
+|Cyberoam|Multiple|HTTP|admin/admin|[相关产品](https://beta.fofa.so/result?q=Cyberoam&qbase64=Q3liZXJvYW0%3D)|[相关文档](https://docs.cyberoam.com/)|
+|Cyberoam|iView|HTTP|admin/admin|[相关产品](https://beta.fofa.so/result?q=Cyberoam&qbase64=Q3liZXJvYW0%3D)|[相关文档](https://docs.cyberoam.com/default.asp?id=344&Lang=1&SID=)|
+|Cyberoam|iView|SSH|root/admin|[相关产品](https://beta.fofa.so/result?q=Cyberoam&qbase64=Q3liZXJvYW0%3D)|[相关文档](https://docs.cyberoam.com/default.asp?id=344&Lang=1&SID=)|
+|Cyclades|Cyclades-TS800|telnet/ssh/web|root/(none)|[相关产品](https://beta.fofa.so/result?q=Cyclades&qbase64=Q3ljbGFkZXM%3D)|||
+|Cyclades|Cyclades-TS800|HTTP|root/tslinux|[相关产品](https://beta.fofa.so/result?q=Cyclades&qbase64=Q3ljbGFkZXM%3D)|||
+|Cyclades|PR-1000||super/surt|[相关产品](https://beta.fofa.so/result?q=Cyclades&qbase64=Q3ljbGFkZXM%3D)|||
+|CTX International|PC BIOS|Console|(none)/CTX_123||||
 |D-Link|DI-701|Multi|(none)/year2000||||
 |D-Link|DI-704||(none)/admin||||
 |D-Link|Dl 604|Multi|admin/(none)||||
@@ -423,6 +486,7 @@
 |Elsa|LANCom Office|Telnet|(none)/cisco||||
 |emai|hotmail||(none)/(none)||||
 |enCAD|XPO|Multi|(none)/(none)||||
+|Enterasys|(1G694-13 or 1G582-09||/||||
 |Enox|PC BIOS|Console|(none)/xo11nE||||
 |Enterasys|ANG-1105|Telnet|(none)/netadmin||||
 |Epox|PC BIOS|Console|(none)/central||||
