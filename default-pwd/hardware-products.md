@@ -14,35 +14,35 @@
 
 | 厂商 | 产品 | 协议 | 口令 | FOFAPro查询语法 | 备注 |
 | ---- | ---- | ---- | ---- | --------------- | ---- |
-|3Com|3Com|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=3com&qbase64=M2NvbQ%3D%3D)|||
-|ASUS|ASUS|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=ASUS&qbase64=QVNVUw%3D%3D)|||
+|3Com|3Com|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=3com&qbase64=M2NvbQ==)|||
+|ASUS|ASUS|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=ASUS&qbase64=QVNVUw==)|||
 |Belkin|Belkin|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=%22Belkin%22&qbase64=IkJlbGtpbiI%3D)|||
-|BenQ|BenQ|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=BenQ&qbase64=QmVuUQ%3D%3D)|||
+|BenQ|BenQ|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=BenQ&qbase64=QmVuUQ==)|||
 |D-Link|D-Link|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=D-Link&qbase64=RC1MaW5r)|||
-|Digicom|Digicom|HTTP|admin/michelangelo|[多款型号](https://beta.fofa.so/result?q=Digicom&qbase64=RGlnaWNvbQ%3D%3D)|||
-|Digicom|Digicom|HTTP|user/password|[多款型号](https://beta.fofa.so/result?q=Digicom&qbase64=RGlnaWNvbQ%3D%3D)|||
-|Linksys|Linksys|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=Linksys&qbase64=TGlua3N5cw%3D%3D)|||
-|Netgear|Netgear|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=Netgear&qbase64=TmV0Z2Vhcg%3D%3D)|||
-|Sitecom|Sitecom|HTTP|sitecom/admin|[多款型号](https://beta.fofa.so/result?q=Sitecom&qbase64=U2l0ZWNvbQ%3D%3D)|||
-|Thomson|Thomson|HTTP|user/user|[多款型号](https://beta.fofa.so/result?q=Thomson&qbase64=VGhvbXNvbg%3D%3D)|||
+|Digicom|Digicom|HTTP|admin/michelangelo|[多款型号](https://beta.fofa.so/result?q=Digicom&qbase64=RGlnaWNvbQ==)|||
+|Digicom|Digicom|HTTP|user/password|[多款型号](https://beta.fofa.so/result?q=Digicom&qbase64=RGlnaWNvbQ==)|||
+|Linksys|Linksys|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=Linksys&qbase64=TGlua3N5cw==)|||
+|Netgear|Netgear|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=Netgear&qbase64=TmV0Z2Vhcg==)|||
+|Sitecom|Sitecom|HTTP|sitecom/admin|[多款型号](https://beta.fofa.so/result?q=Sitecom&qbase64=U2l0ZWNvbQ==)|||
+|Thomson|Thomson|HTTP|user/user|[多款型号](https://beta.fofa.so/result?q=Thomson&qbase64=VGhvbXNvbg==)|||
 |US Robotics|US Robotics|HTTP|root/letmein|[多款型号](https://beta.fofa.so/result?q=Robotics&qbase64=Um9ib3RpY3M%3D)|||
 |Synology|Synology|HTTP|admin/Admin|[多款型号](https://beta.fofa.so/result?q=Synology&qbase64=U3lub2xvZ3k%3D)|||
 |Arris|Arris|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=Arris&qbase64=QXJyaXM%3D)|||
 |Apple|Apple iphoneIOS4.X|HTTP|root/alpine|[多款型号](https://beta.fofa.so/result?q=Apple&qbase64=QXBwbGU%3D)||
-|DELL|DELL|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=DELL&qbase64=REVMTA%3D%3D)|||
-|Huawei|Huawei ADSL2+|ALL|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSLljY7kuLotUm91dGVyIg%3D%3D)||
+|DELL|DELL|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=DELL&qbase64=REVMTA==)|||
+|Huawei|Huawei ADSL2+|ALL|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSLljY7kuLotUm91dGVyIg==)||
 |Huawei|V200R003|ALL|admin/admin|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)||
 |Huawei|V200R005C00-V200R005C20|ALL|admin/Admin@huawei or admin|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)||
 |Huawei|V200R005C30-V300R003C10|ALL|admin/Admin@huawei|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)||
 |Huawei|V300R019C00-latest version|ALL|admin/admin@huawei.com|[多款型号](https://beta.fofa.so/result?q=Huawei&qbase64=SHVhd2Vp)||
-|Netcomm|Netcomm|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=Netcomm&qbase64=TmV0Y29tbQ%3D%3D)||
+|Netcomm|Netcomm|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=Netcomm&qbase64=TmV0Y29tbQ==)||
 |Netstar|Netstar|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=body%3D%22Netstar%22&qbase64=Ym9keT0iTmV0c3RhciI%3D)|||
 |SAMSUNG|SAMSUNG|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJTYW1zdW5nLei3r%2BeUseWZqCI%3D)||||
 |Sigma|Sigma|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=Sigma&qbase64=U2lnbWE%3D)|||
 |SUN|SUN|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJTdW4tT05FLVdlYi1TZXJ2ZXIi)|||
 |Telco systems|Telco systems|HTTP|telco/telco|[多款型号](https://beta.fofa.so/result?q=Telco&qbase64=VGVsY28%3D)|||
 |TENDA|TENDA|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=TENDA&qbase64=VEVOREE%3D)||||
-|ZCOM|ZCOM|HTTP|root/admin|[多款型号](https://beta.fofa.so/result?q=ZCOM&qbase64=WkNPTQ%3D%3D)||||
+|ZCOM|ZCOM|HTTP|root/admin|[多款型号](https://beta.fofa.so/result?q=ZCOM&qbase64=WkNPTQ==)||||
 |ZTE|ZTE|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=ZTE&qbase64=WlRF)|||
 
 
@@ -53,104 +53,104 @@
 |2WIRE|HOMEPORTAL Rev. SBC YAHOO! DSL|(none)|2Wire/null|[多款型号](https://beta.fofa.so/result?q=2WIRE&qbase64=MldJUkU%3D)|||
 |2WIRE|ALL WIFI ROUTERS|HTTP|null/Wireless|[多款型号](https://beta.fofa.so/result?q=2WIRE&qbase64=MldJUkU%3D)|||
 |360 Systems|Image Server 2000|HTTP|factory/factory||||
-|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|HIPERARC Rev. V4.1.X|TELNET|adm/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|LANPLEX Rev. 2500|TELNET|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|LANPLEX Rev. 2500|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|LINKSWITCH Rev. 2000/2700|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|NETBUILDER|SNMP|(none)/ANYCOM|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|NETBUILDER|SNMP|(none)/ILMI|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|NETBUILDER|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|OFFICE CONNECT ISDN ROUTERS Rev. 5X0|TELNET|n/a/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SUPERSTACK II SWITCH Rev. 2200|TELNET|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)|
-|3COM|SUPERSTACK II SWITCH Rev. 2700|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)|
-|3COM| 812 ADSL|MULTI|adminttd/adminttd|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|WIRELESS AP Rev. ANY|MULTI|admin/comcomcom|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX Rev. 7000|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX Rev. 7000|TELNET|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|LANPLEX Rev. 2500|TELNET|tech/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX|HTTP|admin/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX Rev. 7000|TELNET|root/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|HIPERACT Rev. V4.1.X|TELNET|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX Rev. 7000|TELNET|tech/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SUPERSTACK 3 Rev. 4XXX|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SUPERSTACK 3 Rev. 4XXX|MULTI|monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SUPERSTACK 3 Rev. 4400-49XX|MULTI|manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|NETBUILDER|HTTP|Root/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|3C16450|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|3C16406|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|OFFICE CONNECT ISDN ROUTERS Rev. 5X0|TELNET|n/a/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|n/a/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|n/a/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM| ADSL WIRELESS 11G |HTTP|(none)/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|INTERNET FIREWALL Rev. 3C16770|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SHARK FIN Rev. COMCAST-SUPPLIED|HTTP|User/Password|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|812|HTTP|Administrator/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX Rev. 7000|TELNET|operator/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|3COM SUPERSTACK 3 SWITCH 3300XM|MULTI|security/security|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SUPERSTACK II Rev. 1100/3300|CONSOLE|3comcso/RIP000|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|NETBUILDER|SNMP|(none)/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SUPER|TELNET|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX Rev. 7000|MULTI|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM| 812 ADSL Rev. 01.50-01|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CELLPLEX|MULTI|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|3C16405|CONSOLE|Administrator/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SWITCH Rev. 3300XM|MULTI|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|SS III SWITCH Rev. 4XXX (4900 - SURE)|TELNET|recovery/recovery|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM| WIRELESS 11G CABLE/DSL GATEWAY|HTTP|(none)/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|3C16405|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|3CRADSL72 Rev. 1.2|MULTI|(none)/1234admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|CB9000 / 4007 Rev. 3|CONSOLE|Type User: FORCE/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM||MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3COM|OFFICE CONNECT Rev. 11G|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)||
-|3com|3comCellPlex7000||tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|AccessBuilder|SNMP|SNMPWrite/private|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|AirConnect Access|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com|AirConnect Access Point||(none)/comcomcom|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3com|Cable Managment||DOCSIS_APP/3com|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|CellPlex|Telnet|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|CellPlex|Telnet|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|CellPlex|Telnet|root/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|CellPlex|Telnet|tech/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|CoreBuilder|Telnet|operator/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|CoreBuilder|SNMP|SNMPWrite/private|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com|CoreBuilder||debug/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|HiPerARC|Telnet|adm/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3com|Home Connect||User/Password|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|LANplex|Telnet|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|LinkBuilder|Telnet|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|LinkSwitch|Telnet|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com|LinkSwitch and CellPlex||tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3com|NBX100||administrator/0|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|NetBuilder|Multi|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|NetBuilder|SNMP|(none)/ILMI|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|NetBuilder|SNMP|(none)/ANYCOM|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|OCR-812||root/!root|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|Office Connect|Multi|root/!root|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|Office Connect|Telnet|(none)/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com| 5×1||(none)/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3com| 812 ADSL|Multi|adminttd/adminttd|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com|SuperStack / CoreBuilder||admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com|SuperStack / CoreBuilder||write/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3com|Superstack II 3300FX||admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|SuperStack II Switch|Console|3comcso/RIP000|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|SuperStack II Switch|Telnet|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|SuperStack II Switch|Telnet|monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|SuperStack II Switch|Telnet|security/security|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3Com|SuperStack II Switch 1100||manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3Com|SuperStack II Switch 2200||debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3Com|SuperStack II Switch 3300||manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|SuperStack III Switch|Multi|manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|SuperStack III Switch|Multi|recovery/recovery|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
-|3COM|Switch|Multi|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3com|Switch 3000/3300||Admin/3com|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3Com|Switch 3000/3300||monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|Wireless AP|Multi|admin/comcomcom|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM||Telnet|admin/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM||Telnet|monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM||Telnet|security/security|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
-|3COM|–||root/letmein|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ%3D%3D)|||
+|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|HIPERARC Rev. V4.1.X|TELNET|adm/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|LANPLEX Rev. 2500|TELNET|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|LANPLEX Rev. 2500|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|LINKSWITCH Rev. 2000/2700|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|NETBUILDER|SNMP|(none)/ANYCOM|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|NETBUILDER|SNMP|(none)/ILMI|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|NETBUILDER|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|OFFICE CONNECT ISDN ROUTERS Rev. 5X0|TELNET|n/a/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SUPERSTACK II SWITCH Rev. 2200|TELNET|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)|
+|3COM|SUPERSTACK II SWITCH Rev. 2700|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)|
+|3COM| 812 ADSL|MULTI|adminttd/adminttd|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|WIRELESS AP Rev. ANY|MULTI|admin/comcomcom|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX Rev. 7000|TELNET|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX Rev. 7000|TELNET|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|LANPLEX Rev. 2500|TELNET|tech/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX|HTTP|admin/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX Rev. 7000|TELNET|root/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|HIPERACT Rev. V4.1.X|TELNET|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX Rev. 7000|TELNET|tech/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SUPERSTACK 3 Rev. 4XXX|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SUPERSTACK 3 Rev. 4XXX|MULTI|monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SUPERSTACK 3 Rev. 4400-49XX|MULTI|manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|NETBUILDER|HTTP|Root/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|3C16450|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|3C16406|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|OFFICE CONNECT ISDN ROUTERS Rev. 5X0|TELNET|n/a/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|n/a/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|COREBUILDER Rev. 7000/6000/3500/2500|TELNET|n/a/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM| ADSL WIRELESS 11G |HTTP|(none)/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|INTERNET FIREWALL Rev. 3C16770|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SHARK FIN Rev. COMCAST-SUPPLIED|HTTP|User/Password|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|812|HTTP|Administrator/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX Rev. 7000|TELNET|operator/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|3COM SUPERSTACK 3 SWITCH 3300XM|MULTI|security/security|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SUPERSTACK II Rev. 1100/3300|CONSOLE|3comcso/RIP000|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|NETBUILDER|SNMP|(none)/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SUPER|TELNET|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX Rev. 7000|MULTI|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM| 812 ADSL Rev. 01.50-01|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CELLPLEX|MULTI|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|3C16405|CONSOLE|Administrator/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SWITCH Rev. 3300XM|MULTI|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|SS III SWITCH Rev. 4XXX (4900 - SURE)|TELNET|recovery/recovery|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM| WIRELESS 11G CABLE/DSL GATEWAY|HTTP|(none)/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|3C16405|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|3CRADSL72 Rev. 1.2|MULTI|(none)/1234admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|CB9000 / 4007 Rev. 3|CONSOLE|Type User: FORCE/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM||MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3COM|OFFICE CONNECT Rev. 11G|MULTI|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)||
+|3com|3comCellPlex7000||tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|AccessBuilder|SNMP|SNMPWrite/private|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|AirConnect Access|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com|AirConnect Access Point||(none)/comcomcom|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3com|Cable Managment||DOCSIS_APP/3com|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|CellPlex|Telnet|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|CellPlex|Telnet|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|CellPlex|Telnet|root/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|CellPlex|Telnet|tech/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|CoreBuilder|Telnet|operator/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|CoreBuilder|SNMP|SNMPWrite/private|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com|CoreBuilder||debug/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|HiPerARC|Telnet|adm/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3com|Home Connect||User/Password|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|LANplex|Telnet|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|LinkBuilder|Telnet|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|LinkSwitch|Telnet|tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com|LinkSwitch and CellPlex||tech/tech|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3com|NBX100||administrator/0|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|NetBuilder|Multi|admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|NetBuilder|SNMP|(none)/ILMI|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|NetBuilder|SNMP|(none)/ANYCOM|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|OCR-812||root/!root|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|Office Connect|Multi|root/!root|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|Office Connect|Telnet|(none)/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com| 5×1||(none)/PASSWORD|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3com| 812 ADSL|Multi|adminttd/adminttd|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com|SuperStack / CoreBuilder||admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com|SuperStack / CoreBuilder||write/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3com|Superstack II 3300FX||admin/(none)|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|SuperStack II Switch|Console|3comcso/RIP000|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|SuperStack II Switch|Telnet|debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|SuperStack II Switch|Telnet|monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|SuperStack II Switch|Telnet|security/security|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3Com|SuperStack II Switch 1100||manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3Com|SuperStack II Switch 2200||debug/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3Com|SuperStack II Switch 3300||manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|SuperStack III Switch|Multi|manager/manager|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|SuperStack III Switch|Multi|recovery/recovery|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|[相关文档](	http://support.3com.com/infodeli/tools/switches/ss3/4900/dha1770-0aaa04/htm/support/problemsolving/cliproblems.htm)||
+|3COM|Switch|Multi|admin/admin|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3com|Switch 3000/3300||Admin/3com|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3Com|Switch 3000/3300||monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|Wireless AP|Multi|admin/comcomcom|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM||Telnet|admin/synnet|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM||Telnet|monitor/monitor|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM||Telnet|security/security|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
+|3COM|–||root/letmein|[多款型号](https://beta.fofa.so/result?q=3COM&qbase64=M0NPTQ==)|||
 |3M|Volition Fibre Switches|SNMP|volition/volition||||
 |3M|VOL-0215|SNMP|volition/(none)||||
 |3M|VOL-0215|HTTP|VOL-0215/(none)||||
@@ -163,18 +163,18 @@
 |ACCTON T-ONLINE|ACCTON|Multi|(none)/0|[多款型号](https://beta.fofa.so/result?q=ACCTON&qbase64=QUNDVE9O)|||
 |ACEEX|MODEM ADSL ROUTER|HTTP|admin/(none)||||
 |ACEEX|MODEM ADSL ROUTER|HTTP|admin/(none)||||
-|Acer|517te|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Acer&qbase64=QWNlcg%3D%3D)|||
-|Acer|Phoenix|n/a|(none)/Admin||[多款型号](https://beta.fofa.so/result?q=Acer&qbase64=QWNlcg%3D%3D)||
+|Acer|517te|Multi|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Acer&qbase64=QWNlcg==)|||
+|Acer|Phoenix|n/a|(none)/Admin||[多款型号](https://beta.fofa.so/result?q=Acer&qbase64=QWNlcg==)||
 |Actiontec|GE344000-01||(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Actiontec&qbase64=QWN0aW9udGVj)|||
 |Actiontec|M1424WR|HTTP|admin/password|[多款型号](https://beta.fofa.so/result?q=Actiontec&qbase64=QWN0aW9udGVj)|[配置文档](http://onlinehelp.verizon.net/consumer/bin/pdf/NetworkSteps/ConfiguringActiontecM1424WRSecurity2.pdf)||
 |ADC Kentrox|Pacesetter Router|Telnet|(none)/secret||||
-|Adaptec|Storage Manager PRO|Multi|Administrator/adaptec|[多款型号](https://beta.fofa.so/result?q=Adaptec&qbase64=QWRhcHRlYw%3D%3D)|||
-|Adaptec|Storage Manager PRO|Multi|Administrator/adaptec|[多款型号](https://beta.fofa.so/result?q=Adaptec&qbase64=QWRhcHRlYw%3D%3D)|||
+|Adaptec|Storage Manager PRO|Multi|Administrator/adaptec|[多款型号](https://beta.fofa.so/result?q=Adaptec&qbase64=QWRhcHRlYw==)|||
+|Adaptec|Storage Manager PRO|Multi|Administrator/adaptec|[多款型号](https://beta.fofa.so/result?q=Adaptec&qbase64=QWRhcHRlYw==)|||
 |AdComplete.com| Ban Man Pro|HTTP|Admin1/Admin1||||
 |AdComplete.com|Banman Pro|HTTP|Admin1/Admin1||||
 |ADP|ADP Payroll HR Database|Multi|sysadmin/master|[多款型号](https://beta.fofa.so/result?q=ADP&qbase64=QURQ)|||
-|Adtran|MX2800|Telnet|(none)/adtran|[多款设备](https://beta.fofa.so/result?qbase64=YXBwPSJBRFRSQU4tRGV2aWNlIg%3D%3D)|||
-|Adtran|TSU 600 Ethernet module||18364/(none)|[多款设备](https://beta.fofa.so/result?qbase64=YXBwPSJBRFRSQU4tRGV2aWNlIg%3D%3D)|||
+|Adtran|MX2800|Telnet|(none)/adtran|[多款设备](https://beta.fofa.so/result?qbase64=YXBwPSJBRFRSQU4tRGV2aWNlIg==)|||
+|Adtran|TSU 600 Ethernet module||18364/(none)|[多款设备](https://beta.fofa.so/result?qbase64=YXBwPSJBRFRSQU4tRGV2aWNlIg==)|||
 |AddPac Technology|AP2120|HTTP|	root/router|[多款型号](https://beta.fofa.so/result?q=AddPac&qbase64=QWRkUGFj)|||
 |Adobe|Vignette Connector|HTTP|vgnadmin/vgnadmin|[多款型号](https://beta.fofa.so/result?q=Adobe&qbase64=QWRvYmU%3D)|[相关文档](http://dev.day.com/content/docs/en/crx/connectors/vignette/current.html)||
 |Adobe|CQ|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?q=Adobe&qbase64=QWRvYmU%3D)|[相关文档](https://docs.adobe.com/docs/v5_2/html-resources/cq5_guide_power_user/ch07s02.html#sect_default_users_and_groups)||
@@ -186,16 +186,16 @@
 |Adobe|Experience Manager/CQ||aparker@geometrixx.info/aparker|[多款型号](https://beta.fofa.so/result?q=Adobe&qbase64=QWRvYmU%3D)|[相关文档](http://resources.infosecinstitute.com/adobe-cq-pentesting-guide-part-1/)||
 |ADT|Safewatch Pro3000||(none)/2580||[相关文档](http://krebsonsecurity.com/2013/01/does-your-alarm-have-a-default-duress-code/)|
 |Adtech|AX4000||root/ax400|[多款型号](https://beta.fofa.so/result?q=Adtech&qbase64=QWR0ZWNo)|||
-|Alcatel|Office 4200|Multi|(none)/1064|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|OmniStack/OmniSwitch|Telnet/|diag/switch|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|PBX|Port 2533|at4400/at4400|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|PBX|Port 2533|dhs3mt/dhs3mt|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|PBX|Port 2533|halt/tlah|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|PBX|Port 2533|kermit/kermit|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|PBX|Port 2533|mtcl/mtcl|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|alcatel|speed touch home||(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|VPN Gateway||root/permit|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
-|Alcatel|Newbridge VPN Gateway||root/permit|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA%3D%3D)|||
+|Alcatel|Office 4200|Multi|(none)/1064|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|OmniStack/OmniSwitch|Telnet/|diag/switch|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|PBX|Port 2533|at4400/at4400|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|PBX|Port 2533|dhs3mt/dhs3mt|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|PBX|Port 2533|halt/tlah|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|PBX|Port 2533|kermit/kermit|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|PBX|Port 2533|mtcl/mtcl|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|alcatel|speed touch home||(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|VPN Gateway||root/permit|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
+|Alcatel|Newbridge VPN Gateway||root/permit|[多款型号](https://beta.fofa.so/result?q=Alcatel&qbase64=QWxjYXRlbA==)|||
 |Allied|CJ8MO E-U|Telnet|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Allied&qbase64=QWxsaWVk)|||
 |Allied|Telesyn|Multi|secoff/secoff|[多款型号](https://beta.fofa.so/result?q=Allied&qbase64=QWxsaWVk)|||
 |Allied|CJ8MO E-U|Telnet|(none)/(none)|[多款型号](https://beta.fofa.so/result?q=Allied&qbase64=QWxsaWVk)|||
@@ -222,7 +222,7 @@
 |AMI|PC BIOS|Console|(none)/AM||||
 |AMI|PC BIOS|Console|(none)/A.M.I||||
 |AMI|PC BIOS|Console|(none)/CMOSPWD||||
-|Amptron|PC BIOS|Console|(none)/Polrty|[多款型号](https://beta.fofa.so/result?q=Amptron&qbase64=QW1wdHJvbg%3D%3D)|||
+|Amptron|PC BIOS|Console|(none)/Polrty|[多款型号](https://beta.fofa.so/result?q=Amptron&qbase64=QW1wdHJvbg==)|||
 |APC|Any||apcuser/apc|[多款型号](https://beta.fofa.so/result?q=APC&qbase64=QVBD)|||
 |APC|MasterSwitch||apc/apc|[多款型号](https://beta.fofa.so/result?q=APC&qbase64=QVBD)|||
 |APC|Powerchute Plus|Console|POWERCHUTE/APC|[多款型号](https://beta.fofa.so/result?q=APC&qbase64=QVBD)|||
