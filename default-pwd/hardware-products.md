@@ -303,7 +303,7 @@
 |Billion|BiPAC 7404VGO|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)||
 |Billion|BiGuard|HTTP|admin/admin|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCYXktTmV0d29ya3Mt5YWs5Y%2B45Lqn5ZOBIg%3D%3D)||
 |Bintec|all Routers||admin/bintec or funkwerk|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
-|Bintec|Bianka Routers|Multi|admin/bintec|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj|||
+|Bintec|Bianka Routers|Multi|admin/bintec|[多款型号](https://beta.fofa.so/result?q=Bintec&qbase64=QmludGVj)|||
 |BioData|all Babylon Boxes||(none)/Babylon||||
 |Biostar|PC BIOS|Console|(none)/Q54arwms|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCRUNLLUlQQy1DSElQLVJUTyI%3D)|||
 |Biostar|PC BIOS|Console|(none)/Biostar|[多款型号](https://beta.fofa.so/result?qbase64=YXBwPSJCRUNLLUlQQy1DSElQLVJUTyI%3D)|||
@@ -431,16 +431,16 @@
 |Cyclades|Cyclades-TS800|HTTP|root/tslinux|[相关产品](https://beta.fofa.so/result?q=Cyclades&qbase64=Q3ljbGFkZXM%3D)|||
 |Cyclades|PR-1000||super/surt|[相关产品](https://beta.fofa.so/result?q=Cyclades&qbase64=Q3ljbGFkZXM%3D)|||
 |CTX International|PC BIOS|Console|(none)/CTX_123||||
-|D-Link|DI-701|Multi|(none)/year2000||||
-|D-Link|DI-704||(none)/admin||||
-|D-Link|Dl 604|Multi|admin/(none)||||
-|D-Link|DWL 900AP|Multi|admin/public||||
-|D-Link|DWL-900+|HTTP|admin/(none)||||
-|D-Link|Cable/DSL|Multi|(none)/admin||||
-|D-Link|DFE-538TX 10/100||(none)/(none)||||
-|D-Link|DI-106 ISDN router||(none)/1234||||
-|D-Link|DI-604|HTTP|admin/(none)||||
-|D-Link|DI-614+|HTTP|user/(none)||||
+|D-Link|DI-701|Multi|(none)/year2000|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DI-704||(none)/admin|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|Dl 604|Multi|admin/(none)|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DWL 900AP|Multi|admin/public|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DWL-900+|HTTP|admin/(none)|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|Cable/DSL|Multi|(none)/admin|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DFE-538TX 10/100||(none)/(none)|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DI-106 ISDN router||(none)/1234|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DI-604|HTTP|admin/(none)|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
+|D-Link|DI-614+|HTTP|user/(none)|[多款型号](https://beta.fofa.so/result?qbase64=RC1MaW5r)|||
 |Daewoo|PC BIOS|Console|(none)/Daewuu||||
 |Datacom|BSASX/101||(none)/letmein||||
 |Datawizard.net|FTPXQ server|FTP|anonymous/any@||||
