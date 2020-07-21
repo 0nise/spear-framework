@@ -22,6 +22,7 @@
   * [网络安全产品默认口令](default-pwd/security-products.md)
   * [硬件产品默认口令](default-pwd/hardware-products.md)
   * [应用产品默认口令](default-pwd/app-products.md)
+  * [IOT 产品默认口令](default-pwd/iot-products.md)
 
 * [搭建 Spear-framework](INSTALL.md "搭建 Spear-framework")
 * [更新日志](CHANGELOG.md)

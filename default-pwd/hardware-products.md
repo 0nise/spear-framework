@@ -313,7 +313,7 @@
 |Black Widow Web|Saxon|HTTP|admin/admin|||
 |Blitzz Technologies|BWA711|HTTP|admin/admin||||
 |BMC|Patrol|Multi|patrol/patrol|[多款型号](https://fofa.so/result?q=BMC&qbase64=Qk1D)|||
-|BMC Software|Servers||Best1_User/BackupU$r|[多款型号](https://fofa.so/result?q=BMC&qbase64=Qk1D)|[相关文档](ftp://ftp.bmc.com/pub/perform/resolutions/15063490.pdf)|
+|BMC Software|Servers||`Best1_User/BackupU$r`|[多款型号](https://fofa.so/result?q=BMC&qbase64=Qk1D)|[相关文档](ftp://ftp.bmc.com/pub/perform/resolutions/15063490.pdf)|
 |Bomgar|Enterprise||admin/password|[多款型号](https://fofa.so/result?q=Bomgar&qbase64=Qm9tZ2Fy)|||
 |Borland|Interbase||politcally/correct|[相关产品](https://fofa.so/result?q=Bomgar&qbase64=Qm9tZ2Fy)|||
 |Borland/|Interbase||SYSDBA/masterkey|[相关产品](https://fofa.so/result?q=Bomgar&qbase64=Qm9tZ2Fy)|||
@@ -1341,15 +1341,3 @@
 |Vivotek|Vivotek|HTTP|root/|[相关产品](https://fofa.so/result?qbase64=YXBwPSJWaXZvdGVrLU5ldHdvcmstQ2FtZXJhIg%3D%3D)||
 |Ubiquiti|Ubiquiti|HTTP|ubnt/ubnt|||
 |Wodsee|Wodsee|HTTP|admin/|||
-
-
-## IOT
-
-| 厂商 | 产品 | 协议 | 口令 | FOFAPro查询语法 | 备注 |
-| ---- | ---- | ---- | ---- | --------------- | ---- |
-|Schneider	|M340|	FTP	|sysdiag/factorycast@schneider	|[相关产品](https://fofa.so/result?q=Schneider&qbase64=U2NobmVpZGVy)||	
-|Schneider	|M340|	Web	|USER/USER		|[相关产品](https://fofa.so/result?q=Schneider&qbase64=U2NobmVpZGVy)||	
-|Schneider	|Premium|	FTP	|sysdiag/factorycast@schneider		|[相关产品](https://fofa.so/result?q=Schneider&qbase64=U2NobmVpZGVy)||	
-|Schneider	|Premium|	WEB	|USER/USER		|[相关产品](https://fofa.so/result?q=Schneider&qbase64=U2NobmVpZGVy)||	
-|Siemens	|S7-1200|	Web	|admin			|[相关产品](https://fofa.so/result?q=Siemens&qbase64=U2llbWVucw%3D%3D)||	
-|GarrettCom	|Magnum Switch	|Web	|manager/manager|||	
